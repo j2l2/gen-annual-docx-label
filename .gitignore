@@ -1,0 +1,11 @@
+/._2024 甲辰年（龍年）.docx
+/._gen_lunar_cal.py
+/._仙佛紀念日.docx
+/2*.docx
+/*20*.docx
+/.venv/**
+__pycache__/**
+sqlite.py
+~*.docx
+*.v?
+.
